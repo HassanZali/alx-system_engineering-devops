@@ -1,2 +1,2 @@
 #!/bin/bash
-chmkd -R + X .
+chmkd -R +X .
